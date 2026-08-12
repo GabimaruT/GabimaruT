@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GabimaruT&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=GabimaruT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -22,13 +22,13 @@
 
 * 🔭 I’m currently working on **100 Days of Machine Learning**
 * 🌱 I’m currently learning **Deep Learning**
-* 👯 I’m looking to collaborate on **Machine Learning & Data Science projects**
-* 🤝 I’m looking for help with **ML projects**
+* 👯 I’m looking to collaborate on **Agricure**
+* 🤝 I’m looking for help with **Machine Learning projects**
 * 👨‍💻 All of my projects are available on my **GitHub profile**
-* 💬 Ask me about **Data Science, Machine Learning, Java, DSA**
+* 💬 Ask me about **Data Science, Machine Learning, Java and DSA**
 * 🎯 Currently focused on improving my **problem-solving and development skills**
 * 🚀 Always learning, building and experimenting with new technologies
-* 📫 How to reach me **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 How to reach me **[krishnawalke092@gmail.com](mailto:krishnawalke092@gmail.com)**
 
 ---
 
@@ -51,23 +51,23 @@ Deep Learning          █████████████░░░░░░
 
 <p align="left">
 
-<a href="https://www.cprogramming.com/" target="_blank">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
 </a>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank">
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 </a>
 
-<a href="https://www.java.com/" target="_blank">
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 </a>
 
@@ -77,31 +77,31 @@ Deep Learning          █████████████░░░░░░
 
 <p align="left">
 
-<a href="https://numpy.org/" target="_blank">
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank">
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank">
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="45" height="45"/>
 </a>
 
-<a href="https://pytorch.org/" target="_blank">
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
 </a>
 
-<a href="https://www.tensorflow.org/" target="_blank">
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
 </a>
 
-<a href="https://opencv.org/" target="_blank">
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/>
 </a>
 
-<a href="https://seaborn.pydata.org/" target="_blank">
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
 </a>
 
@@ -111,31 +111,31 @@ Deep Learning          █████████████░░░░░░
 
 <p align="left">
 
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
 </a>
 
-<a href="https://react.dev/" target="_blank">
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
 </a>
 
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
 </a>
 
-<a href="https://www.djangoproject.com/" target="_blank">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/>
 </a>
 
-<a href="https://flask.palletsprojects.com/" target="_blank">
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="45" height="45"/>
 </a>
 
-<a href="https://spring.io/" target="_blank">
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45"/>
 </a>
 
@@ -145,19 +145,19 @@ Deep Learning          █████████████░░░░░░
 
 <p align="left">
 
-<a href="https://www.mongodb.com/" target="_blank">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
 </a>
 
-<a href="https://www.sqlite.org/" target="_blank">
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="45"/>
 </a>
 
-<a href="https://www.oracle.com/" target="_blank">
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
 </a>
 
@@ -167,27 +167,27 @@ Deep Learning          █████████████░░░░░░
 
 <p align="left">
 
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </a>
 
-<a href="https://www.linux.org/" target="_blank">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
 </a>
 
-<a href="https://firebase.google.com/" target="_blank">
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
 </a>
 
-<a href="https://heroku.com/" target="_blank">
+<a href="https://heroku.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="45" height="45"/>
 </a>
 
-<a href="https://www.photoshop.com/" target="_blank">
+<a href="https://www.photoshop.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/>
 </a>
 
@@ -198,8 +198,9 @@ Deep Learning          █████████████░░░░░░
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=udaysharmadev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=GabimaruT&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabimaruT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -208,11 +209,11 @@ Deep Learning          █████████████░░░░░░
 
 <p align="center">
 
-<img src="https://img.shields.io/github/repos/udaysharmadev?style=for-the-badge&logo=github&label=TOTAL%20REPOS" alt="Total Repositories"/>
+<img src="https://img.shields.io/github/repos/GabimaruT?style=for-the-badge&logo=github&label=TOTAL%20REPOS" alt="Total Repositories"/>
 
-<img src="https://img.shields.io/github/stars/udaysharmadev?style=for-the-badge&logo=github&label=STARS%20RECEIVED" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/GabimaruT?style=for-the-badge&logo=github&label=STARS%20RECEIVED" alt="Stars Received"/>
 
-<img src="https://img.shields.io/github/followers/udaysharmadev?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/GabimaruT?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
 
 </p>
 
@@ -221,7 +222,7 @@ Deep Learning          █████████████░░░░░░
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=udaysharmadev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=GabimaruT&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -229,7 +230,7 @@ Deep Learning          █████████████░░░░░░
 # 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabimaruT&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
 ---
@@ -237,7 +238,7 @@ Deep Learning          █████████████░░░░░░
 # 📅 Commit Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=github-compact&hide_border=true&area=true" alt="Commit Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabimaruT&theme=github-compact&hide_border=true&area=true" alt="Commit Graph"/>
 </p>
 
 ---
@@ -245,7 +246,7 @@ Deep Learning          █████████████░░░░░░
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GabimaruT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -253,13 +254,15 @@ Deep Learning          █████████████░░░░░░
 # 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/udaysharmadev/ML-journey">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=udaysharmadev&repo=ML-journey&theme=tokyonight&hide_border=true" />
+
+  <a href="https://github.com/GabimaruT/ML-journey">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GabimaruT&repo=ML-journey&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/udaysharmadev/agricure2">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=udaysharmadev&repo=agricure2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/GabimaruT/agricure2">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GabimaruT&repo=agricure2&theme=tokyonight&hide_border=true" />
   </a>
+
 </p>
 
 ### 🤖 100 Days of Machine Learning
@@ -267,21 +270,28 @@ Deep Learning          █████████████░░░░░░
 A continuous learning journey covering Machine Learning concepts, algorithms and practical implementations.
 
 🔗 **Repository:**
-https://github.com/udaysharmadev/ML-journey
+https://github.com/GabimaruT/ML-journey
 
 ### 🌱 Agricure
 
 A project focused on applying technology and machine learning to agriculture.
 
 🔗 **Repository:**
-https://github.com/udaysharmadev/agricure2
+https://github.com/GabimaruT/agricure2
 
 ### 💳 Fraud Detection System
 
 A Machine Learning project focused on detecting fraudulent transactions.
 
 🔗 **Repository:**
-https://github.com/udaysharmadev/Fraud-detection-system
+https://github.com/GabimaruT/Fraud-detection-system
+
+### 🌐 Portfolio
+
+My personal portfolio showcasing my projects, skills and development work.
+
+🔗 **Repository:**
+https://github.com/GabimaruT/portfolio
 
 ---
 
@@ -305,15 +315,11 @@ https://github.com/udaysharmadev/Fraud-detection-system
 
 <p align="center">
 
-<a href="https://github.com/udaysharmadev">
+<a href="https://github.com/GabimaruT">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:your-email@example.com">
+<a href="mailto:krishnawalke092@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
